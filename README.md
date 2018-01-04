@@ -1,2 +1,20 @@
-# reinforce-tf
-brief survey and implementations of popular deep RL papers/algorithms in tensorflow
+
+
+## Deep Reinforcement Learning in TensorFlow
+
+- *survey*
+- *walk through already impleted alogorithms*
+- *to implement below algorithms explicitly using tensorflow-keras(extension to gym and pytorch)*
+
+* Deep Q-Learning (DQN)
+* Double DQN
+* Dueling DQN
+* Async Advantage Actor Critic (A3C)
+* Async One-Step Q-Learning
+* Async One-Step Sarsa 
+* Async N-Step Q-Learning
+* Continuous A3C
+* Distributed Deep Deterministic Policy Gradient (Distributed DDPG, aka D3PG)
+* Hybrid Reward Architecture (HRA)
+* Parallelized Proximal Policy Optimization (P3O, similar to DPPO)
+* Action Conditional Video Prediction
