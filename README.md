@@ -3,8 +3,8 @@
 ## Deep Reinforcement Learning in TensorFlow
 
 - *survey*
-- *walk through already impleted alogorithms*
-- *to implement below algorithms explicitly using tensorflow-keras(extension to gym and pytorch)*
+- *walk through already implemeted alogorithms*
+- *to implement below algorithms explicitly in tensorflow-keras(extension to gym and pytorch)*
 
 * Deep Q-Learning (DQN)
 * Double DQN
