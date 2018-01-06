@@ -22,7 +22,7 @@
 
 ----------------------------------------
 
-### Surveys
+#### Surveys
 
  - Reinforcement Learning: A Survey, JAIR, 1996. [[Paper]](https://www.jair.org/media/301/live-301-1562-jair.pdf)
  - A Tutorial Survey of Reinforcement Learning, Sadhana, 1994. [[Paper]](http://www.cse.iitm.ac.in/~ravi/papers/keerthi.rl-survey.pdf)
@@ -31,8 +31,6 @@
  - "Reinforcement learning improves behaviour from evaluative feedback." Nature 521.7553 (2015): 445-451. [[Paper]](http://www.nature.com/nature/journal/v521/n7553/full/nature14540.html)
  - A Survey on Policy Search for Robotics, Foundations and Trends in Robotics, 2014. [[Book]](https://spiral.imperial.ac.uk:8443/bitstream/10044/1/12051/7/fnt_corrected_2014-8-22.pdf)
 - A Brief Survey of Deep Reinforcement Learning 2017 [[arxiv](https://arxiv.org/abs/1708.05866)]
-
-### Papers / Thesis
 
 #### Foundational Papers
 
