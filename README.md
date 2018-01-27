@@ -1,3 +1,13 @@
+### Reference Implementations
+
+|| [deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers) |  [deep-reinforcement-learning-papers](https://github.com/muupan/deep-reinforcement-learning-papers) | [stock_market_reinforcement_learning](https://github.com/kh-kim/stock_market_reinforcement_learning) | [Deep-Reinforcement-Learning-Survey](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey) | [AppliedDataSciencePartners/DeepReinforcementLearning
+](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning) | [5vision/deep-reinforcement-learning-networks](https://github.com/5vision/deep-reinforcement-learning-networks) | [dusty-nv/jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement) | [DeepReinforcementLearningThatMatters](https://github.com/Breakend/DeepReinforcementLearningThatMatters) | [Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow](https://github.com/liuyuemaicha/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow) | [np-hard-deep-reinforcement-learning](https://github.com/higgsfield/np-hard-deep-reinforcement-learning) | [yao62995/Deep_Reinforcement_Learning](https://github.com/yao62995/Deep_Reinforcement_Learning) | [Asynchronous-Methods-for-Deep-Reinforcement-Learning](https://github.com/Zeta36/Asynchronous-Methods-for-Deep-Reinforcement-Learning) | [Deep-Reinforcement-Learning-in-Stock-Trading](https://github.com/shenyichen105/Deep-Reinforcement-Learning-in-Stock-Trading) | [snake-ai-reinforcement](https://github.com/YuriyGuts/snake-ai-reinforcement) | [reinforcement-learning-notes](https://github.com/dbobrenko/reinforcement-learning-notes) | [awesome-deep-reinforcement-learning](https://github.com/williamd4112/awesome-deep-reinforcement-learning) | [DeepReinforcementLearning](https://github.com/awbrown90/DeepReinforcementLearning) | [Deep-Reinforcement-Learning-Architectures](https://github.com/etotheipluspi/Deep-Reinforcement-Learning-Architectures) | [Deep-Reinforcement-Learning-Tutorials](https://github.com/ankonzoid/Deep-Reinforcement-Learning-Tutorials) | [DeepReinforcementLearning](https://github.com/favetelinguis/DeepReinforcementLearning) | [ReinforcementLearning-AtariGame](https://github.com/Nasdin/ReinforcementLearning-AtariGame) | [Project-Deep-Reinforcement-Learning-With-Policy-Gradient](https://github.com/GordonCai/Project-Deep-Reinforcement-Learning-With-Policy-Gradient) || 
+
+|| []() | []() | []() | []() | []() | []() | []() | []() | []() | []() ||
+
+
+-------------
+
 
 
 ## Deep Reinforcement Learning in TensorFlow
