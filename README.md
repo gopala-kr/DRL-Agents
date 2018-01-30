@@ -112,6 +112,8 @@
   
 ---------------
 
+### additional reference
+
   - [Mastering the game of Go with deep neural networks and tree search](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey/blob/master/papers/Mastering%20the%20game%20of%20Go%20with%20deep%20neural%20networks%20and%20tree%20search.md)
   - [Deep Successor Reinforcement Learning](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey/blob/master/papers/Deep%20Successor%20Reinforcement%20Learning.md)
   - [Action-Conditional Video Prediction using Deep Networks in Atari Games](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey/blob/master/papers/Action-Conditional%20Video%20Prediction%20using%20Deep%20Networks%20in%20Atari%20Games.md)
