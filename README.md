@@ -45,6 +45,9 @@
  - "Reinforcement learning improves behaviour from evaluative feedback." Nature 521.7553 (2015): 445-451. [[Paper]](http://www.nature.com/nature/journal/v521/n7553/full/nature14540.html)
  - A Survey on Policy Search for Robotics, Foundations and Trends in Robotics, 2014. [[Book]](https://spiral.imperial.ac.uk:8443/bitstream/10044/1/12051/7/fnt_corrected_2014-8-22.pdf)
 - A Brief Survey of Deep Reinforcement Learning 2017 [[arxiv](https://arxiv.org/abs/1708.05866)]
+- A Survey of Deep Network Solutions for Learning Control in Robotics: From Reinforcement to Imitation. 2018 [[arxiv](https://arxiv.org/abs/1612.07139v4)]
+- Universal Reinforcement Learning Algorithms: Survey and Experiments. 2017 [[arxiv](https://arxiv.org/abs/1705.10557v1)]
+- The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches. 2018 [[arxiv](https://arxiv.org/abs/1803.01164v1)]
 
 #### Foundational Papers
 
@@ -110,8 +113,6 @@
    - Hado van Hasselt, Arthur Guez, David Silver, Deep Reinforcement Learning with Double Q-Learning, ArXiv, 22 Sep 2015. [[ArXiv]](http://arxiv.org/abs/1509.06461)
    - Asynchronous Methods for Deep Reinforcement Learning, ArXiv, 4 Feb 2016. [[ArXiv]](https://arxiv.org/abs/1602.01783)
    
-
-### Applications
 
 #### Game Playing
 
