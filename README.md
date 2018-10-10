@@ -18,6 +18,10 @@
 
 -------------
 
+![landscape](https://raw.githubusercontent.com/tangzhenyu/Reinforcement-Learning-in-Robotics/master/images/landscape.jpeg)
+
+-------------------
+
 
 
 ## Deep Reinforcement Learning in TensorFlow
