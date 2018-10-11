@@ -158,5 +158,6 @@ Computer Games
 - [Deep_reinforcement_learning_Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course)
 - [Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
 - [Machine Learning for Humans, Part 5: Reinforcement Learning](https://medium.com/machine-learning-for-humans/reinforcement-learning-6eacf258b265)
-
+- [Deep reinforcement learning: where to start](https://medium.freecodecamp.org/deep-reinforcement-learning-where-to-start-291fb0058c01)
+- [Learning Policies For Learning Policies — Meta Reinforcement Learning (RL²) in Tensorflow](https://hackernoon.com/learning-policies-for-learning-policies-meta-reinforcement-learning-rl%C2%B2-in-tensorflow-b15b592a2ddf)
 -----------------------
