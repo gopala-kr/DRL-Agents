@@ -113,7 +113,7 @@ Computer Games
   
 ---------------
 
-### additional reference
+### References
 
   - [Mastering the game of Go with deep neural networks and tree search](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey/blob/master/papers/Mastering%20the%20game%20of%20Go%20with%20deep%20neural%20networks%20and%20tree%20search.md)
   - [Deep Successor Reinforcement Learning](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey/blob/master/papers/Deep%20Successor%20Reinforcement%20Learning.md)
@@ -130,7 +130,6 @@ Computer Games
   - [Generalizing Skills with Semi-Supervised Reinforcement Learning](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey/blob/master/papers/Generalizing%20Skills%20with%20Semi-Supervised%20Reinforcement%20Learning.md)
   - [Unsupervised Perceptual Rewards for Imitation Learning](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey/blob/master/papers/Unsupervised%20Perceptual%20Rewards%20for%20Imitation%20Learning.md)
   - [Towards Deep Symbolic Reinforcement Learning](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey/blob/master/papers/Towards%20Deep%20Symbolic%20Reinforcement%20Learning.md)
-  - [others](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey/blob/master/Reinforcement-Learning-Papers.md)
 - [Open Source](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey/blob/master/Open-Source.md#open-source)
     
     
