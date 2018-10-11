@@ -150,5 +150,9 @@ Computer Games
   - [Towards Deep Symbolic Reinforcement Learning](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey/blob/master/papers/Towards%20Deep%20Symbolic%20Reinforcement%20Learning.md)
 - [Open Source](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey/blob/master/Open-Source.md#open-source)
     
-    
+------------------------
+
+
+- [Reinforcement Learning (RL)](https://hci-kdd.org/wordpress/wp-content/uploads/2016/07/3-REINFORCEMENT-Machine-Learning.pdf)
+
 -----------------------
