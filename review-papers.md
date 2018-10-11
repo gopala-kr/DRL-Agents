@@ -155,4 +155,6 @@ Computer Games
 
 - [Reinforcement Learning (RL)](https://hci-kdd.org/wordpress/wp-content/uploads/2016/07/3-REINFORCEMENT-Machine-Learning.pdf)
 - [Simple Reinforcement Learning with Tensorflow Part 0-8](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+- [Deep_reinforcement_learning_Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course)
+
 -----------------------
