@@ -6,6 +6,21 @@
 
 -------------
 
+- Temporal difference learning (1988)
+- Q‐learning (1998)
+- BayesRL (2002)
+- RMAX (2002)
+- CBPI (2002)
+- PEGASUS (2002)
+- Least‐Squares Policy Iteration (2003)
+- Fitted Q‐Iteration (2005)
+- GTD (2009)
+- UCRL (2010)
+- REPS (2010)
+- DQN (2014)
+
+--------------
+
    - Value Optimization
        - [QR-DQN]
        - [DQN]
