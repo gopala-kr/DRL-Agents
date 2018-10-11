@@ -3,13 +3,18 @@
  - Reinforcement Learning: A Survey, JAIR, 1996. [[arxiv]](https://arxiv.org/pdf/cs/9605103.pdf)
  - A Tutorial Survey of Reinforcement Learning, Sadhana, 1994. [[Paper]](http://www.cse.iitm.ac.in/~ravi/papers/keerthi.rl-survey.pdf)
  - Reinforcement Learning in Robotics, A Survey, IJRR, 2013. [[Paper]](http://www.ias.tu-darmstadt.de/uploads/Publications/Kober_IJRR_2013.pdf)
- - "Reinforcement learning improves behaviour from evaluative feedback." Nature 521.7553 (2015): 445-451. [[Paper]](http://www.nature.com/nature/journal/v521/n7553/full/nature14540.html)
  - A Survey on Policy Search for Robotics, Foundations and Trends in Robotics, 2014. [[Book]](https://spiral.imperial.ac.uk:8443/bitstream/10044/1/12051/7/fnt_corrected_2014-8-22.pdf)
 - A Brief Survey of Deep Reinforcement Learning 2017 [[arxiv](https://arxiv.org/abs/1708.05866)]
 - A Survey of Deep Network Solutions for Learning Control in Robotics: From Reinforcement to Imitation. 2018 [[arxiv](https://arxiv.org/abs/1612.07139v4)]
 - Universal Reinforcement Learning Algorithms: Survey and Experiments. 2017 [[arxiv](https://arxiv.org/abs/1705.10557v1)]
 - The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches. 2018 [[arxiv](https://arxiv.org/abs/1803.01164v1)]
 - Transfer Learning for Reinforcement Learning Domains: A Survey, JMLR, 2009. [[Paper]](http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf)
+- [Bayesian Reinforcement Learning: A Survey. 2016](https://arxiv.org/pdf/1609.04436v1.pdf)
+- [A Survey of Inverse Reinforcement Learning:
+Challenges, Methods and Progress](https://arxiv.org/pdf/1806.06877v1.pdf)
+- [Benchmarking Reinforcement Learning Algorithms
+on Real-World Robots](https://arxiv.org/pdf/1809.07731v1.pdf)
+- [DEEP REINFORCEMENT LEARNING: AN OVERVIEW](https://arxiv.org/pdf/1701.07274.pdf)
  
 #### Foundational Papers
 
