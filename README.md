@@ -44,7 +44,7 @@ Misc
 
 ----------------------------------------
 
--**Author**_
+_**Author**_
 
 Gopala KR / @gopala-kr
 
