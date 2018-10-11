@@ -148,5 +148,6 @@ Computer Games
 - [Deep reinforcement learning: where to start](https://medium.freecodecamp.org/deep-reinforcement-learning-where-to-start-291fb0058c01)
 - [Learning Policies For Learning Policies — Meta Reinforcement Learning (RL²) in Tensorflow](https://hackernoon.com/learning-policies-for-learning-policies-meta-reinforcement-learning-rl%C2%B2-in-tensorflow-b15b592a2ddf)
 - [Introduction to Various Reinforcement Learning Algorithms. Part II (TRPO, PPO)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9)
+- [reinforcementlearning.ai-depot.com](http://reinforcementlearning.ai-depot.com/)
 
 -----------------------
