@@ -47,7 +47,8 @@
        - [Generative Adversarial Imitation Learning]
 
 ------------
-
+![awesome](https://raw.githubusercontent.com/tigerneil/awesome-deep-rl/master/images/awesome-drl.png)
+---------
 ![landscape](https://raw.githubusercontent.com/tangzhenyu/Reinforcement-Learning-in-Robotics/master/images/landscape.jpeg)
 
 -------------------
