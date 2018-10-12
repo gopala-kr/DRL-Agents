@@ -320,6 +320,19 @@ Computer Games
 - Universal Value Function Approximators. [`pdf`](http://schaul.site44.com/publications/uvfa.pdf)
 - Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning. [`arxiv`](http://arxiv.org/abs/1509.08731)
 
+----------
+
+2014
+
+- Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning.[[url](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf)]
+
+----------
+
+2013
+
+- Evolving large-scale neural networks for vision-based reinforcement learning. [[idsia](http://people.idsia.ch/~juergen/gecco2013torcs.pdf)] :star: 
+- [Playing Atari with Deep Reinforcement Learning.](http://www.cnblogs.com/wangxiaocvpr/p/5601972.html) [[toronto](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)] :star: 
+
 -------------------------
 
 - [Reinforcement Learning (RL)](https://hci-kdd.org/wordpress/wp-content/uploads/2016/07/3-REINFORCEMENT-Machine-Learning.pdf)
