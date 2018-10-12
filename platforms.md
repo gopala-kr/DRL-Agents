@@ -1,7 +1,7 @@
 
 - [gym](https://github.com/openai/gym)
 - [dopamine](https://github.com/google/dopamine)
-
+- [robotics-rl-srl](https://github.com/araffin/robotics-rl-srl)
 
 
 
@@ -32,8 +32,8 @@ Conference on Learning Representations, 2016.][prioritized_replay]
 - [Adversarial Reinforcement Learning Framework for Benchmarking Collision Avoidance Mechanisms in Autonomous Vehicles](https://arxiv.org/pdf/1806.01368.pdf)
 - [S-RL Toolbox: Environments, Datasets and Evaluation
 Metrics for State Representation Learning](https://arxiv.org/pdf/1809.09369.pdf)
-- []()
-- []()
+- [StarCraft II: A New Challenge for Reinforcement Learning](https://arxiv.org/pdf/1708.04782.pdf)
+- [OpenAI Gym](https://pdfs.semanticscholar.org/2b10/281297ee001a9f3f4ea1aa9bea6b638c27df.pdf)
 - []()
 - []()
 - []()
