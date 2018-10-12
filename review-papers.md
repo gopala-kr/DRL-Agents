@@ -1,5 +1,5 @@
 ---------
-Deep RL
+#### Deep RL
 
 2018
 
@@ -322,7 +322,7 @@ Computer Games
 
 ---------
 
-## IMP
+#### Imp
 
 1. *Playing Atari with Deep Reinforcement Learning*, Mnih et al., 2013
 2. *Human-level control through deep reinforcement learning*, Mnih et al., 2015
