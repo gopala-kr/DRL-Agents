@@ -6,7 +6,7 @@
 
 -------------
 
-- Temporal difference learning (1988)
+- Temporal difference(TD) learning (1988)
 - Q‐learning (1998)
 - BayesRL (2002)
 - RMAX (2002)
@@ -17,7 +17,7 @@
 - GTD (2009)
 - UCRL (2010)
 - REPS (2010)
-- DQN (2014)
+- DQN (2014) - DeepMind
 
 --------------
 
@@ -57,7 +57,7 @@ Misc
 
 - [reference implementations](https://github.com/gopala-kr/reinforce-tf/blob/master/ref-implementations.md)
 - [review papers](https://github.com/gopala-kr/reinforce-tf/blob/master/review-papers.md)
-- [platforms](https://github.com/gopala-kr/DRL-Agents/blob/master/platforms.md)
+- [RL platforms](https://github.com/gopala-kr/DRL-Agents/blob/master/platforms.md)
 
 
 ----------------------------------------
