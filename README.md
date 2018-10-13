@@ -57,6 +57,7 @@ Misc
 
 - [reference implementations](https://github.com/gopala-kr/reinforce-tf/blob/master/ref-implementations.md)
 - [review papers](https://github.com/gopala-kr/reinforce-tf/blob/master/review-papers.md)
+- [platforms](https://github.com/gopala-kr/DRL-Agents/blob/master/platforms.md)
 
 
 ----------------------------------------
