@@ -85,7 +85,7 @@
 * Boltzmann ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/exploration_policies/boltzmann.py))
 * Ornstein–Uhlenbeck process ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/exploration_policies/ou_process.py))
 * Normal Noise ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/exploration_policies/additive_noise.py))
-* Truncated Normal Noise ([code](rl_coach/exploration_policies/truncated_normal.py))
+* Truncated Normal Noise ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/exploration_policies/truncated_normal.py))
 * [Bootstrapped Deep Q Network](https://arxiv.org/abs/1602.04621)  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/bootstrapped_dqn_agent.py))
 * [UCB Exploration via Q-Ensembles (UCB)](https://arxiv.org/abs/1706.01502) ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/exploration_policies/ucb.py))
 * [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295) ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/exploration_policies/parameter_noise.py))
