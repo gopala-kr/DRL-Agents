@@ -5,7 +5,7 @@
 ![algorithms](https://github.com/NervanaSystems/coach/blob/master/img/algorithms.png)
 
 -------------
-
+- [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - Temporal difference(TD) learning (1988)
 - Q‐learning (1998)
 - BayesRL (2002)
@@ -23,7 +23,7 @@
 
    - Value Optimization
        - [QR-DQN]
-       - [DQN]
+       - [DQN] - [[Slides](https://drive.google.com/file/d/0BxXI_RttTZAhVUhpbDhiSUFFNjg/view)]
        - [Bootstrapped DQN]
        - [DDQN]
        - [NEC]
