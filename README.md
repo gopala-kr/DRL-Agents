@@ -5,7 +5,6 @@
 ![algorithms](https://github.com/NervanaSystems/coach/blob/master/img/algorithms.png)
 
 -------------
-- [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - Temporal difference(TD) learning (1988)
 - Q‐learning (1998)
 - BayesRL (2002)
@@ -58,11 +57,17 @@ Misc
 - [reference implementations](https://github.com/gopala-kr/reinforce-tf/blob/master/ref-implementations.md)
 - [review papers](https://github.com/gopala-kr/reinforce-tf/blob/master/review-papers.md)
 - [RL platforms](https://github.com/gopala-kr/DRL-Agents/blob/master/platforms.md)
+
+-------------
+
+- [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - [UC Berkeley: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
 - [Deep Reinforcement Learning and Control 
 Spring 2017, CMU 10703](https://katefvision.github.io/#readings)
 - [Sutton & Barto's: Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+- [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+- [reinforcejs](https://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
 
 ----------------------------------------
 
