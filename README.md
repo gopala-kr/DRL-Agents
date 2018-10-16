@@ -63,7 +63,7 @@
 * [Policy Gradients (PG)](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf) | **Distributed**  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/policy_gradients_agent.py))
 * [Asynchronous Advantage Actor-Critic (A3C)](https://arxiv.org/abs/1602.01783) | **Distributed**  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/actor_critic_agent.py))
 * [Deep Deterministic Policy Gradients (DDPG)](https://arxiv.org/abs/1509.02971) | **Distributed**  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/ddpg_agent.py))
-* [Proximal Policy Optimization (PPO)](https://arxiv.org/pdf/1707.06347.pdf)  ([code](rl_coach/agents/ppo_agent.py))
+* [Proximal Policy Optimization (PPO)](https://arxiv.org/pdf/1707.06347.pdf)  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/ppo_agent.py))
 * [Clipped Proximal Policy Optimization (CPPO)](https://arxiv.org/pdf/1707.06347.pdf) | **Distributed**  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/clipped_ppo_agent.py))
 * [Generalized Advantage Estimation (GAE)](https://arxiv.org/abs/1506.02438) ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/actor_critic_agent.py#L86))
 
