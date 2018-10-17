@@ -89,11 +89,34 @@
 * [Bootstrapped Deep Q Network](https://arxiv.org/abs/1602.04621)  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/bootstrapped_dqn_agent.py))
 * [UCB Exploration via Q-Ensembles (UCB)](https://arxiv.org/abs/1706.01502) ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/exploration_policies/ucb.py))
 * [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295) ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/exploration_policies/parameter_noise.py))
-
 ------------
 ![awesome](https://raw.githubusercontent.com/tigerneil/awesome-deep-rl/master/images/awesome-drl.png)
 ---------
 ![landscape](https://raw.githubusercontent.com/tangzhenyu/Reinforcement-Learning-in-Robotics/master/images/landscape.jpeg)
+---------
+#### Environments
+
+- Acrobot
+- Bike
+- Blackjack
+- Cartpole
+- ContextBandit
+- Continuous Chain
+- Corridor
+- Discrete Chain
+- Discretiser (for continuous environments)
+- Double Loop
+- Environment
+- Gridworld
+- Inventory management
+- Linear context bandit
+- Linear dynamic quadratic
+- Mountaincar (2d and 3d)
+- POMDP Maze
+- Optimistic Task
+- Puddleworld
+- Random MDPs
+- Riverswim
 
 -------------------
 
