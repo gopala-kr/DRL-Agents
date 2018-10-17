@@ -31,6 +31,8 @@
  - [ChainerRL](https://github.com/chainer/chainerrl) - Popular deep RL algorithm implementations with Chainer
  - [Black-DROPS](https://github.com/resibots/blackdrops) - Modular and generic code for the model-based policy search Black-DROPS algorithm (IROS 2017 paper) and easy integration with the [DART](http://dartsim.github.io/) simulator
  - [DeepRL](https://github.com/ShangtongZhang/DeepRL) - Highly modularized implementation of popular deep RL algorithms in PyTorch
+ - [tensorflow-rl](https://github.com/steveKapturowski/tensorflow-rl) - Implementations of deep RL papers and random experimentation
+ 
  
 ------------
 - [Google dopamine](https://github.com/google/dopamine)
