@@ -35,7 +35,7 @@
  - [DeepRL](https://github.com/arnomoonens/DeepRL) - Combining deep learning and reinforcement learning.
  
 ------------
-- [Google dopamine](https://github.com/google/dopamine)
+- [Google dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [robotics-rl-srl](https://github.com/araffin/robotics-rl-srl)
 - [pysc2: StarCraft II Learning Environment](https://github.com/deepmind/pysc2)
 - [Arcade-Learning-Environment](https://github.com/mgbellemare/Arcade-Learning-Environment)
