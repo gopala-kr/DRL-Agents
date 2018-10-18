@@ -22,7 +22,7 @@
 
    - Value Optimization
        - [QR-DQN]
-       - [DQN] - [[Slides](https://drive.google.com/file/d/0BxXI_RttTZAhVUhpbDhiSUFFNjg/view)]  [[DQN](https://github.com/deepmind/dqn)]
+       - [DQN] - [[Slides](https://drive.google.com/file/d/0BxXI_RttTZAhVUhpbDhiSUFFNjg/view)]  [[Code](https://github.com/deepmind/dqn)]
        - [Bootstrapped DQN]
        - [DDQN]
        - [NEC]
