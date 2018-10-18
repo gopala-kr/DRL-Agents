@@ -137,6 +137,8 @@ Spring 2017, CMU 10703](https://katefvision.github.io/#readings)
 - [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 - [reinforcejs](https://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
 - [Hands-On-Reinforcement-Learning-With-Python](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)
+- [jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement)
+
 ----------------------------------------
 
 _**Author**_
