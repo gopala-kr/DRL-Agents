@@ -136,7 +136,7 @@ Spring 2017, CMU 10703](https://katefvision.github.io/#readings)
 - [Sutton & Barto's: Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 - [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 - [reinforcejs](https://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
-
+- [Hands-On-Reinforcement-Learning-With-Python](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)
 ----------------------------------------
 
 _**Author**_
