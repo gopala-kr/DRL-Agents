@@ -146,7 +146,7 @@ Spring 2017, CMU 10703](https://katefvision.github.io/#readings)
 - [reinforcejs](https://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
 - [Hands-On-Reinforcement-Learning-With-Python](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)
 - [jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement)
-
+- [DEEP REINFORCEMENT LEARNING](https://arxiv.org/pdf/1810.06339v1.pdf)
 ----------------------------------------
 
 _**Author**_
