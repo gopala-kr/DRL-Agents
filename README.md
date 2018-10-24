@@ -128,6 +128,18 @@
 
 -------------------
 
+##### DRL applied to Robotics
+
+   - [Sim-to-Real]
+   - [Imitation Learning]
+   - [Value-based Learning]
+   - [Policy-based Learning]
+   - [Model-based Learning]
+   - [Autonomous Driving Vehicles]
+
+
+
+----------------
 Misc
 
 - [reference implementations](https://github.com/gopala-kr/reinforce-tf/blob/master/ref-implementations.md)
