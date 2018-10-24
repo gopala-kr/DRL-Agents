@@ -292,6 +292,8 @@ II mini-games]
 
 #### DRL applied to NLP
 
+[Back to top](#contents)
+
 - [Sequence Generation]
 - [Machine Translation]
 - [Dialogue Systems]
@@ -299,6 +301,8 @@ II mini-games]
 ------------
 
 #### DRL applied to Vision
+
+[Back to top](#contents)
 
 - [Recognition]
 - [Motion Analysis]
