@@ -1,8 +1,6 @@
 
 ----------
 
-##### Contents
-
 - [RL Landscape](#rl-landscape)
 - [RL History](#rl-history)
 - [RL Agent Implementations](#rl-agent-implementations)
@@ -20,7 +18,9 @@
 - [References](#references)
 
 
-[Back to top](#contents)
+[Back to top](#o)
+
+#### O
 
 ----------------
 
