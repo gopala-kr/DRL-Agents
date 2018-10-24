@@ -5,7 +5,7 @@
 
 - [RL Landscape](#rl-landscape)
 - [RL History](#rl-history)
-- [RL Agent Implementations](#rl-agent-implementations)
+- [RL Agents Implementation](#rl-agents-implementation)
   - [Value Optimization Agents](#value-optimization-agents)
   - [Policy Optimization Agents](#policy-optimization-agents)
   - [General Agents](#general-agents)
@@ -38,7 +38,7 @@
 
 --------------
 
-#### RL Agent Implementations
+#### RL Agents Implementation
 
 [Back to top](#contents)
 
