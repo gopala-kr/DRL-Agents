@@ -102,7 +102,7 @@
 ---------
 ![landscape](https://raw.githubusercontent.com/tangzhenyu/Reinforcement-Learning-in-Robotics/master/images/landscape.jpeg)
 ---------
-#### Environments
+#### RL Environments
 
 - Acrobot
 - Bike
@@ -127,7 +127,7 @@
 - Riverswim
 
 -------------------
-##### Games
+##### RL Games
 
 - Chinook (1997;2007) for Checkers,
 - Deep Blue (2002) for chess,
@@ -145,14 +145,14 @@
 
 -----------------
 
-- [BOARD GAMES]
+- [Board Games]
   - [Computer GO]
   - [AlphaGo: Traini pipeline with MCTS]
   - [AlphaGo Zero]
   - [Alpha Zero]
-- [CARD GAMES]
+- [Car Games]
   - [DeepStack]
-- [VIDEO GAMES]
+- [Video Games]
   - [Atari 2600 games]
   - [StarCraft]
   - [StarCraft
