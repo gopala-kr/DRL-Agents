@@ -126,7 +126,34 @@
 - Random MDPs
 - Riverswim
 
+----------
+
+#### RL Mechanisms
+
+- [Attention and Memory]
+- [Unsupervised learning ]
+  - [GANs]
+  - [GQN]
+  - [UNREAL]
+- [Hierarchical RL]
+  - [FuNs]
+  - [Option-Critic]
+  - [STRAW]
+  - [h-DQN]
+  - [Stochastic Neural Networks]
+- [Multi-agent RL]
+- [Relational RL]
+- [Learning to Learn, a.k.a. Meta-Learning]
+  - [Few/One/Zero-shot Learning]
+    - [MAML]
+  - [Transfer and Multi-Task Learning]
+  - [Learning to Optimize]
+  - [Learning to Re-inforcement Learn]
+  - [Learning Combinatorial Optimization]
+  - [AutoML]
+  
 -------------------
+
 ##### RL Games
 
 - Chinook (1997;2007) for Checkers,
