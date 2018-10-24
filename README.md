@@ -154,7 +154,7 @@
   
 -------------------
 
-##### RL Games
+#### RL Games
 
 - Chinook (1997;2007) for Checkers,
 - Deep Blue (2002) for chess,
@@ -192,7 +192,7 @@ II mini-games]
   
 ------------
 
-##### DRL applied to Robotics
+#### DRL applied to Robotics
 
    - [Sim-to-Real]
      - [MuJoCo]
