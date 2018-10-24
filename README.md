@@ -15,13 +15,18 @@
   - [Exploration Techniques](#exploration-techniques)
 - [RL Environments](#rl-environments)
 - [RL Mechanisms](#rl-mechanisms)
-- [RL Games](#RL Games)
+- [RL Games](#rl-games)
 - [DRL applied to Robotics](#drl-applied-to-robotics)
 - [References](#references)
+
+
+[Back to top](#contents)
 
 ----------------
 
 #### RL Landscape
+
+[Back to top](#contents)
 
 ![68747470733a2f2f706c616e73706163652e6f72672f32303137303833302d6265726b656c65795f646565705f726c5f626f6f7463616d702f696d672f616e6e6f74617465642e6a7067](https://camo.githubusercontent.com/9f59450ab0458e82c4d728415a4d0f1671ea8a48/68747470733a2f2f706c616e73706163652e6f72672f32303137303833302d6265726b656c65795f646565705f726c5f626f6f7463616d702f696d672f616e6e6f74617465642e6a7067)
 
@@ -32,6 +37,9 @@
 --------------
 
 #### RL Agent Implementations
+
+[Back to top](#contents)
+
 
 ![algorithms](https://github.com/NervanaSystems/coach/blob/master/img/algorithms.png)
 
@@ -64,6 +72,8 @@
 
 ##### Value Optimization Agents
 
+[Back to top](#contents)
+
 * [Deep Q Network (DQN)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/dqn_agent.py))
 * [Double Deep Q Network (DDQN)](https://arxiv.org/pdf/1509.06461.pdf)  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/ddqn_agent.py))
 * [Dueling Q Network](https://arxiv.org/abs/1511.06581)
@@ -78,6 +88,9 @@
 
 ##### Policy Optimization Agents
 
+[Back to top](#contents)
+
+
 * [Policy Gradients (PG)](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf) | **Distributed**  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/policy_gradients_agent.py))
 * [Asynchronous Advantage Actor-Critic (A3C)](https://arxiv.org/abs/1602.01783) | **Distributed**  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/actor_critic_agent.py))
 * [Deep Deterministic Policy Gradients (DDPG)](https://arxiv.org/abs/1509.02971) | **Distributed**  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/ddpg_agent.py))
@@ -86,19 +99,34 @@
 * [Generalized Advantage Estimation (GAE)](https://arxiv.org/abs/1506.02438) ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/actor_critic_agent.py#L86))
 
 ##### General Agents
+
+[Back to top](#contents)
+
 * [Direct Future Prediction (DFP)](https://arxiv.org/abs/1611.01779) | **Distributed**  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/dfp_agent.py))
 
 ##### Imitation Learning Agents
+
+[Back to top](#contents)
+
 * Behavioral Cloning (BC)  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/bc_agent.py))
 
 ##### Hierarchical Reinforcement Learning Agents
+
+[Back to top](#contents)
+
 * [Hierarchical Actor Critic (HAC)](https://arxiv.org/abs/1712.00948.pdf) ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/ddpg_hac_agent.py))
 
 ##### Memory Types
+
+[Back to top](#contents)
+
 * [Hindsight Experience Replay (HER)](https://arxiv.org/abs/1707.01495.pdf) ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/memories/episodic/episodic_hindsight_experience_replay.py))
 * [Prioritized Experience Replay (PER)](https://arxiv.org/abs/1511.05952) ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/memories/non_episodic/prioritized_experience_replay.py))
 
 ##### Exploration Techniques
+
+[Back to top](#contents)
+
 * E-Greedy ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/exploration_policies/e_greedy.py))
 * Boltzmann ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/exploration_policies/boltzmann.py))
 * Ornstein–Uhlenbeck process ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/exploration_policies/ou_process.py))
@@ -107,11 +135,13 @@
 * [Bootstrapped Deep Q Network](https://arxiv.org/abs/1602.04621)  ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/agents/bootstrapped_dqn_agent.py))
 * [UCB Exploration via Q-Ensembles (UCB)](https://arxiv.org/abs/1706.01502) ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/exploration_policies/ucb.py))
 * [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295) ([code](https://github.com/NervanaSystems/coach/blob/master/rl_coach/exploration_policies/parameter_noise.py))
-------------
 
 -------------
 
 #### RL History
+
+[Back to top](#contents)
+
 
 - Temporal difference(TD) learning (1988)
 - Q‐learning (1998)
@@ -128,37 +158,49 @@
 
 ----------
 
+[Back to top](#contents)
+
 ![awesome](https://raw.githubusercontent.com/tigerneil/awesome-deep-rl/master/images/awesome-drl.png)
+
+
 ---------
+
+[Back to top](#contents)
+
 ![landscape](https://raw.githubusercontent.com/tangzhenyu/Reinforcement-Learning-in-Robotics/master/images/landscape.jpeg)
 ---------
 #### RL Environments
 
-- Acrobot
-- Bike
-- Blackjack
-- Cartpole
-- ContextBandit
-- Continuous Chain
-- Corridor
-- Discrete Chain
-- Discretiser (for continuous environments)
-- Double Loop
-- Environment
-- Gridworld
-- Inventory management
-- Linear context bandit
-- Linear dynamic quadratic
-- Mountaincar (2d and 3d)
-- POMDP Maze
-- Optimistic Task
-- Puddleworld
-- Random MDPs
-- Riverswim
+[Back to top](#contents)
+
+- [Acrobot]
+- [Bike]
+- [Blackjack]
+- [Cartpole]
+- [ContextBandit]
+- [Continuous Chain]
+- [Corridor]
+- [Discrete Chain]
+- [Discretiser (for continuous environments)]
+- [Double Loop]
+- [Environment]
+- [Gridworld]
+- [Inventory management]
+- [Linear context bandit]
+- [Linear dynamic quadratic]
+- [Mountaincar (2d and 3d)]
+- [POMDP Maze]
+- [Optimistic Task]
+- [Puddleworld]
+- [Random MDPs]
+- [Riverswim]
 
 ----------
 
 #### RL Mechanisms
+
+[Back to top](#contents)
+
 
 - [Attention and Memory]
 - [Unsupervised learning ]
@@ -186,6 +228,9 @@
 
 #### RL Games
 
+[Back to top](#contents)
+
+
 - Chinook (1997;2007) for Checkers,
 - Deep Blue (2002) for chess,
 - Logistello (1999) for Othello,
@@ -201,6 +246,9 @@
 - Zambaldi et al. (2018), Sun et al. (2018), and Pang et al. (2018) for StarCraft II
 
 -----------------
+
+
+[Back to top](#contents)
 
 - [Board Games]
   - [Computer GO]
@@ -224,6 +272,9 @@ II mini-games]
 
 #### DRL applied to Robotics
 
+[Back to top](#contents)
+
+
    - [Sim-to-Real]
      - [MuJoCo]
    - [Imitation Learning]
@@ -235,7 +286,11 @@ II mini-games]
 
 
 ----------------
+
 #### References
+
+[Back to top](#contents)
+
 
 - [reference implementations](https://github.com/gopala-kr/reinforce-tf/blob/master/ref-implementations.md)
 - [review papers](https://github.com/gopala-kr/reinforce-tf/blob/master/review-papers.md)
