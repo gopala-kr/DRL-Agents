@@ -1,7 +1,7 @@
 
 ----------
 
-#### Contents
+##### Contents
 
 - [RL Landscape](#rl-landscape)
 - [RL History](#rl-history)
@@ -253,8 +253,8 @@
 [Back to top](#contents)
 
 - [Board Games]
-  - [Computer GO]
-  - [AlphaGo: Traini pipeline with MCTS]
+  - [Computer Go]
+  - [AlphaGo: Trainig pipeline with MCTS]
   - [AlphaGo Zero]
   - [Alpha Zero]
 - [Card Games]
