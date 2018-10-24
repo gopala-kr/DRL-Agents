@@ -150,7 +150,7 @@
   - [AlphaGo: Traini pipeline with MCTS]
   - [AlphaGo Zero]
   - [Alpha Zero]
-- [Car Games]
+- [Card Games]
   - [DeepStack]
 - [Video Games]
   - [Atari 2600 games]
