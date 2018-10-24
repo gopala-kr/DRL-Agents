@@ -21,6 +21,9 @@
   - [DRL applied to NLP](#drl-applied-to-nlp)
   - [DRL applied to Vision](#drl-applied-to-vision)
 - [References](#references)
+  - Reference Implementations
+  - Review Papers
+  - RL Platforms
 
 
 [Back to top](#contents)
