@@ -127,10 +127,46 @@
 - Riverswim
 
 -------------------
+##### Games
+
+• Chinook (1997;2007) for Checkers,
+• Deep Blue (2002) for chess,
+• Logistello (1999) for Othello,
+• TD-Gammon (1994) for Backgammon,
+• GIB (2001) for contract bridge,
+• MoHex (2017) for Hex,
+• DQN (2016)(2018) for Atari 2600 games,
+• AlphaGo (2016a) and AlphaGo Zero (2017) for Go,
+• Alpha Zero (2017) for chess, shogi, and Go,
+• Cepheus (2015), DeepStack (2017), and Libratus (2017a;b) for heads-up Texas Hold’em Poker,
+• Jaderberg et al. (2018) for Quake III Arena Capture the Flag,
+• OpenAI Five, for Dota 2 at 5v5, https://openai.com/five/,
+• Zambaldi et al. (2018), Sun et al. (2018), and Pang et al. (2018) for StarCraft II
+
+- [BOARD GAMES]
+  - [COMPUTER GO]
+  - [ALPHAGO: TRAINING PIPELINE AND MCTS]
+  - [ALPHAGO ZERO]
+  - [ALPHA ZERO]
+- [CARD GAMES]
+  - [DEEPSTACK]
+- [VIDEO GAMES]
+  - [Atari 2600 games]
+  - [StarCraft]
+  - [StarCraft
+II mini-games]
+  - [Quake III Arena]
+  - [Minecraft]
+  - [Super Smash Bros]
+  - [Doom]
+  - [ViZDoom]
+  
+------------
 
 ##### DRL applied to Robotics
 
    - [Sim-to-Real]
+     - [MuJoCo]
    - [Imitation Learning]
    - [Value-based Learning]
    - [Policy-based Learning]
