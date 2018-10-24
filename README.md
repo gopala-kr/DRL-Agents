@@ -285,6 +285,24 @@ II mini-games]
    - [Model-based Learning]
    - [Autonomous Driving Vehicles]
 
+-------------
+
+#### DRL applied to NLP
+
+- [Sequence Generation]
+- [Machine Translation]
+- [Dialogue Systems]
+
+------------
+
+#### DRL applied to Vision
+
+- [Recognition]
+- [Motion Analysis]
+- [Scene Understanding]
+- [Vision + NLP]
+- [Visual Control]
+- [Interactive Perception]
 
 
 ----------------
