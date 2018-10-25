@@ -341,7 +341,7 @@ Spring 2017, CMU 10703](https://katefvision.github.io/#readings)
 - [jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement)
 - [DEEP REINFORCEMENT LEARNING](https://arxiv.org/pdf/1810.06339v1.pdf)
 - [Reinforcement Learning Applications](https://medium.com/@yuxili/rl-applications-73ef685c07eb)
-
+- [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl)
 
 ----------------------------------------
 
