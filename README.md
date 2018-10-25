@@ -15,7 +15,7 @@
   - [Exploration Techniques](#exploration-techniques)
 - [RL Environments](#rl-environments)
 - [RL Mechanisms](#rl-mechanisms)
-- [RL Applications]()
+- [RL Applications](#)
   - [RL Games](#rl-games)
   - [DRL applied to Robotics](#drl-applied-to-robotics)
   - [DRL applied to NLP](#drl-applied-to-nlp)
