@@ -327,7 +327,7 @@ II mini-games]
 - [RL platforms](https://github.com/gopala-kr/DRL-Agents/blob/master/platforms.md)
 
 -------------
-- []()
+- [deepmind.com/blog](https://deepmind.com/blog/)
 - [blog.openai](https://blog.openai.com/)
 - [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks) - Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp (Aug 2017)
 - [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
