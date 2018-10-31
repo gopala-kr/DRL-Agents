@@ -73,7 +73,7 @@
    - [DFP]
    - Imitation
        - [Behavioural cloning]
-       - [Inverse Reinforcement Learning]
+       - [Inverse Reinforcement Learning] [Code](https://github.com/MatthewJA/Inverse-Reinforcement-Learning)
        - [Generative Adversarial Imitation Learning]
        
 -----------
