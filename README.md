@@ -53,7 +53,7 @@
 
    - Value Optimization
        - [QR-DQN]
-       - [DQN] - [[Slides](https://drive.google.com/file/d/0BxXI_RttTZAhVUhpbDhiSUFFNjg/view)]  [[Code](https://github.com/deepmind/dqn)]
+       - [DQN] - [[Slides](https://drive.google.com/file/d/0BxXI_RttTZAhVUhpbDhiSUFFNjg/view)]  [[Code](https://github.com/deepmind/dqn)] [[rainbow](https://github.com/hengyuan-hu/rainbow)]
        - [Bootstrapped DQN]
        - [DDQN]
        - [NEC]
@@ -65,7 +65,7 @@
    - Policy Optimization
        - [Policy Gradient]
        - [Actor Critic]
-         - [DDPG]
+         - [DDPG] [[Code](https://github.com/ghliu/pytorch-ddpg)]
            - [HAC DDPG]
            - [DDPG with HER]
          - [Clipped PPO]
@@ -73,7 +73,7 @@
    - [DFP]
    - Imitation
        - [Behavioural cloning]
-       - [Inverse Reinforcement Learning] [Code](https://github.com/MatthewJA/Inverse-Reinforcement-Learning)
+       - [Inverse Reinforcement Learning] [[Code](https://github.com/MatthewJA/Inverse-Reinforcement-Learning)] [[irl-imitation-code](https://github.com/yrlu/irl-imitation)]
        - [Generative Adversarial Imitation Learning]
        
 -----------
