@@ -34,7 +34,7 @@
  - [tensorflow-rl](https://github.com/steveKapturowski/tensorflow-rl) - Implementations of deep RL papers and random experimentation
  - [DeepRL](https://github.com/arnomoonens/DeepRL) - Combining deep learning and reinforcement learning.
  - [deepmind/trfl](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning
- 
+ - [facebookresearch/Horizon](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning (Applied RL)
  
 ------------
 - [Google dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
