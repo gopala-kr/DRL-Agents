@@ -35,7 +35,7 @@
  - [DeepRL](https://github.com/arnomoonens/DeepRL) - Combining deep learning and reinforcement learning.
  - [deepmind/trfl](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning
  - [facebookresearch/Horizon](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning (Applied RL)
- 
+ - [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit) - A Python toolkit used to train reinforcement learning algorithms against arcade games
 ------------
 - [Google dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [robotics-rl-srl](https://github.com/araffin/robotics-rl-srl) - S-RL Toolbox: Reinforcement Learning (RL) and State Representation Learning (SRL) for Robotics
