@@ -347,6 +347,7 @@ Spring 2017, CMU 10703](https://katefvision.github.io/#readings)
 - [Closing the Simulation-to-Reality Gap for Deep Robotic Learning](https://ai.googleblog.com/2017/10/closing-simulation-to-reality-gap-for.html)
 - [Intel AI : demystifying-deep-reinforcement-learning](https://ai.intel.com/demystifying-deep-reinforcement-learning/)
 - [Intel AI : deep-reinforcement-learning-with-neon](https://ai.intel.com/deep-reinforcement-learning-with-neon/)
+- [Intel AI : reinforcement-learning-coach-intel](https://ai.intel.com/reinforcement-learning-coach-intel/)
 
 ----------------------------------------
 
