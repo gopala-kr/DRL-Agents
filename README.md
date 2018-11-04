@@ -345,6 +345,8 @@ Spring 2017, CMU 10703](https://katefvision.github.io/#readings)
 - [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl)
 - [Scalable Deep Reinforcement Learning for Robotic Manipulation](https://ai.googleblog.com/2018/06/scalable-deep-reinforcement-learning.html)
 - [Closing the Simulation-to-Reality Gap for Deep Robotic Learning](https://ai.googleblog.com/2017/10/closing-simulation-to-reality-gap-for.html)
+- [Intel AI : demystifying-deep-reinforcement-learning](https://ai.intel.com/demystifying-deep-reinforcement-learning/)
+- [Intel AI : deep-reinforcement-learning-with-neon](https://ai.intel.com/deep-reinforcement-learning-with-neon/)
 
 ----------------------------------------
 
