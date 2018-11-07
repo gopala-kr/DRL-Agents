@@ -349,6 +349,7 @@ Spring 2017, CMU 10703](https://katefvision.github.io/#readings)
 - [Intel AI : demystifying-deep-reinforcement-learning](https://ai.intel.com/demystifying-deep-reinforcement-learning/)
 - [Intel AI : deep-reinforcement-learning-with-neon](https://ai.intel.com/deep-reinforcement-learning-with-neon/)
 - [Intel AI : reinforcement-learning-coach-intel](https://ai.intel.com/reinforcement-learning-coach-intel/)
+- [eecs.berkeley.deeprlcourse](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 ----------------------------------------
 
