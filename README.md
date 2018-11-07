@@ -325,6 +325,7 @@ II mini-games]
 - [reference implementations](https://github.com/gopala-kr/reinforce-tf/blob/master/ref-implementations.md)
 - [review papers](https://github.com/gopala-kr/reinforce-tf/blob/master/review-papers.md)
 - [RL platforms](https://github.com/gopala-kr/DRL-Agents/blob/master/platforms.md)
+- [deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
 
 -------------
 - [deepmind.com/blog](https://deepmind.com/blog/)
