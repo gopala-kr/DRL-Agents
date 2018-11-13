@@ -350,6 +350,7 @@ Spring 2017, CMU 10703](https://katefvision.github.io/#readings)
 - [Intel AI : deep-reinforcement-learning-with-neon](https://ai.intel.com/deep-reinforcement-learning-with-neon/)
 - [Intel AI : reinforcement-learning-coach-intel](https://ai.intel.com/reinforcement-learning-coach-intel/)
 - [eecs.berkeley.deeprlcourse](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [Deep Learning for Video Game Playing](https://arxiv.org/pdf/1708.07902.pdf)
 
 ----------------------------------------
 
