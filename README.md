@@ -352,7 +352,7 @@ Spring 2017, CMU 10703](https://katefvision.github.io/#readings)
 - [eecs.berkeley.deeprlcourse](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Deep Learning for Video Game Playing](https://arxiv.org/pdf/1708.07902.pdf)
 - [Deep Reinforcement Learning that Matters](https://arxiv.org/pdf/1709.06560.pdf)
-- [Adversarial Examples: Attacks and Defenses for Deep Learnin](https://arxiv.org/pdf/1712.07107.pdf)
+- [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/pdf/1712.07107.pdf)
 
 ----------------------------------------
 
