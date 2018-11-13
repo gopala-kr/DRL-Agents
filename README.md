@@ -351,6 +351,7 @@ Spring 2017, CMU 10703](https://katefvision.github.io/#readings)
 - [Intel AI : reinforcement-learning-coach-intel](https://ai.intel.com/reinforcement-learning-coach-intel/)
 - [eecs.berkeley.deeprlcourse](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Deep Learning for Video Game Playing](https://arxiv.org/pdf/1708.07902.pdf)
+- [Deep Reinforcement Learning that Matters](https://arxiv.org/pdf/1709.06560.pdf)
 
 ----------------------------------------
 
