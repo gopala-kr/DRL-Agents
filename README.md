@@ -354,6 +354,9 @@ Spring 2017, CMU 10703](https://katefvision.github.io/#readings)
 - [Deep Reinforcement Learning that Matters](https://arxiv.org/pdf/1709.06560.pdf)
 - [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/pdf/1712.07107.pdf)
 - [Reinforcement learning](https://yandexdataschool.com/edu-process/rl)
+- [A Survey of Inverse Reinforcement Learning:
+Challenges, Methods and Progress
+](https://arxiv.org/pdf/1806.06877v1.pdf)
 
 ----------------------------------------
 
