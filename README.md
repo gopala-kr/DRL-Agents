@@ -359,6 +359,8 @@ Challenges, Methods and Progress
 ](https://arxiv.org/pdf/1806.06877v1.pdf)
 - [A Survey of Knowledge Representation and Retrieval
 for Learning in Service Robotics](https://arxiv.org/pdf/1807.02192v1.pdf)
+- [Applications of Deep Reinforcement Learning in
+Communications and Networking: A Survey](https://arxiv.org/pdf/1810.07862v1.pdf)
 
 ----------------------------------------
 
