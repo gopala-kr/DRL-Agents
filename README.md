@@ -24,7 +24,7 @@
   - Reference Implementations
   - Review Papers
   - RL Platforms
-
+  - Deep Reinforcement Learning Papers
 
 [Back to top](#contents)
 
