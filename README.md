@@ -331,7 +331,7 @@ II mini-games]
 - [deepmind.com/blog](https://deepmind.com/blog/)
 - [blog.openai](https://blog.openai.com/)
 - [openai/spinningup](https://github.com/openai/spinningup)
-- [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks) - Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp (Aug 2017)
+- [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks)-Deep RL Bootcamp (Aug 2017)
 - [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - [UC Berkeley: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
