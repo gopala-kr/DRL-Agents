@@ -51,10 +51,13 @@ Jan 2019
 - [A Critical Investigation of Deep Reinforcement Learning for Navigation](https://arxiv.org/abs/1802.02274v2)
 - [Accelerating Goal-Directed Reinforcement Learning by Model Characterization](https://arxiv.org/abs/1901.01977v1)
 - [Machine Teaching in Hierarchical Genetic Reinforcement Learning: Curriculum Design of Reward Functions for Swarm Shepherding](https://arxiv.org/abs/1901.00949v1)
+- [Reinforcement Learning Using Quantum Boltzmann Machines](https://arxiv.org/abs/1612.05695v3)
+- [Communication-Efficient Distributed Reinforcement Learning](https://arxiv.org/abs/1812.03239v2)
+- [DeepTraffic: Crowdsourced Hyperparameter Tuning of Deep Reinforcement Learning Systems for Multi-Agent Dense Traffic Navigation](https://arxiv.org/abs/1801.02805v2)
+- [Human-Like Autonomous Car-Following Model with Deep Reinforcement Learning](https://arxiv.org/abs/1901.00569v1)
+- [Adversarial Text Generation Without Reinforcement Learning](https://arxiv.org/abs/1810.06640v2)
 - []()
 - []()
-- []()
-
 
 --------
 
