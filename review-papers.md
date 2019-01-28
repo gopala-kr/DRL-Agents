@@ -34,6 +34,15 @@ Jan 2019
 - [Low Level Control of a Quadrotor with Deep Model-Based Reinforcement learning](https://arxiv.org/abs/1901.03737v1)
 - [Accelerated Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1803.02811v2)
 - [Motion Perception in Reinforcement Learning with Dynamic Objects](https://arxiv.org/abs/1901.03162v1)
+- [A New Tensioning Method using Deep Reinforcement Learning for Surgical Pattern Cutting](https://arxiv.org/abs/1901.03327v1)
+- [Machine Teaching for Inverse Reinforcement Learning: Algorithms and Applications](https://arxiv.org/abs/1805.07687v4)
+- [Near-Optimal Representation Learning for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1810.01257v2)
+- [Multi-Agent Reinforcement Learning via Double Averaging Primal-Dual Optimization](https://arxiv.org/abs/1806.00877v4)
+- [Deterministic Implementations for Reproducibility in Deep Reinforcement Learning](https://arxiv.org/abs/1809.05676v4)
+- [Uncertainty-Based Out-of-Distribution Detection in Deep Reinforcement Learning](https://arxiv.org/abs/1901.02219v1)
+- [Risk-Aware Active Inverse Reinforcement Learning](https://arxiv.org/abs/1901.02161v1)
+- [A dual mode adaptive basal-bolus advisor based on reinforcement learning](https://arxiv.org/abs/1901.01816v1)
+- [What Should I Do Now? Marrying Reinforcement Learning and Symbolic Planning](https://arxiv.org/abs/1901.01492v1)
 - []()
 - []()
 - []()
@@ -43,7 +52,8 @@ Jan 2019
 - []()
 - []()
 - []()
-
+- []()
+- []()
 
 
 --------
