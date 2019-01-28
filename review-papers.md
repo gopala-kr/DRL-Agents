@@ -19,11 +19,22 @@ Jan 2019
 - [Lifelong Federated Reinforcement Learning: A Learning Architecture for Navigation in Cloud Robotic Systems](https://arxiv.org/abs/1901.06455v1)
 - [Hierarchically Structured Reinforcement Learning for Topically Coherent Visual Story Generation](https://arxiv.org/abs/1805.08191v3)
 - [Recurrent Control Nets for Deep Reinforcement Learning](https://arxiv.org/abs/1901.01994v2)
+- [Amplifying the Imitation Effect for Reinforcement Learning of UCAV's Mission Execution](https://arxiv.org/abs/1901.05856v1)
+- [Multi-agent Reinforcement Learning Embedded Game for the Optimization of Building Energy Control and Power System Planning](https://arxiv.org/abs/1901.07333v1)
+- [Representation Learning on Graphs: A Reinforcement Learning Application](https://arxiv.org/abs/1901.05351v2)
+- [Evolutionarily-Curated Curriculum Learning for Deep Reinforcement Learning Agents](https://arxiv.org/abs/1901.05431v1)
+- [Exploring applications of deep reinforcement learning for real-world autonomous driving systems](https://arxiv.org/abs/1901.01536v3)
+- [AlphaSeq: Sequence Discovery with Deep Reinforcement Learning](https://arxiv.org/abs/1810.01218v2)
 - []()
 - []()
 - []()
 - []()
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 
 
