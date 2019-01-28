@@ -56,8 +56,7 @@ Jan 2019
 - [DeepTraffic: Crowdsourced Hyperparameter Tuning of Deep Reinforcement Learning Systems for Multi-Agent Dense Traffic Navigation](https://arxiv.org/abs/1801.02805v2)
 - [Human-Like Autonomous Car-Following Model with Deep Reinforcement Learning](https://arxiv.org/abs/1901.00569v1)
 - [Adversarial Text Generation Without Reinforcement Learning](https://arxiv.org/abs/1810.06640v2)
-- []()
-- []()
+- [End-to-End Video Captioning with Multitask Reinforcement Learning](https://arxiv.org/abs/1803.07950v2)
 
 --------
 
