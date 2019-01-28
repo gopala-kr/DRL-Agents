@@ -1,6 +1,32 @@
 
 #### Deep RL
 
+Jan 2019
+
+- [Federated Reinforcement Learning](https://arxiv.org/abs/1901.08277v1)
+- [Verifiable Reinforcement Learning via Policy Extraction](https://arxiv.org/abs/1805.08328v2)
+- [QFlow: A Reinforcement Learning Approach to High QoE Video Streaming over Wireless Networks](https://arxiv.org/abs/1901.00959v2)
+- [Complementary reinforcement learning towards explainable agents](https://arxiv.org/abs/1901.00188v2)
+- [The Multi-Agent Reinforcement Learning in MalmÖ (MARLÖ) Competition](https://arxiv.org/abs/1901.08129v1)
+- [Hierarchical Reinforcement Learning for Multi-agent MOBA Game](https://arxiv.org/abs/1901.08004v1)
+- [Reinforcement Learning of Markov Decision Processes with Peak Constraints](https://arxiv.org/abs/1901.07839v1)
+- [Robust Recovery Controller for a Quadrupedal Robot using Deep Reinforcement Learning](https://arxiv.org/abs/1901.07517v1)
+- [Understanding Multi-Step Deep Reinforcement Learning: A Systematic Study of the DQN Target](https://arxiv.org/abs/1901.07510v1)
+- [Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation](https://arxiv.org/abs/1810.09202v2)
+- [Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees](https://arxiv.org/abs/1807.03858v4)
+- [A Short Survey on Probabilistic Reinforcement Learning](https://arxiv.org/abs/1901.07010v1)
+- [Read, Watch, and Move: Reinforcement Learning for Temporally Grounding Natural Language Descriptions in Videos](https://arxiv.org/abs/1901.06829v1)
+- [Lifelong Federated Reinforcement Learning: A Learning Architecture for Navigation in Cloud Robotic Systems](https://arxiv.org/abs/1901.06455v1)
+- [Hierarchically Structured Reinforcement Learning for Topically Coherent Visual Story Generation](https://arxiv.org/abs/1805.08191v3)
+- [Recurrent Control Nets for Deep Reinforcement Learning](https://arxiv.org/abs/1901.01994v2)
+- []()
+- []()
+- []()
+- []()
+
+
+
+
 --------
 
 2018
