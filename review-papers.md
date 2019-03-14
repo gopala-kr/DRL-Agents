@@ -1,6 +1,71 @@
 
 #### Deep RL
 
+
+March 2019
+
+- [IRLAS: Inverse Reinforcement Learning for Architecture Search](https://arxiv.org/abs/1812.05285v3)
+- [Learning Hierarchical Teaching in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/abs/1903.03216v1)
+- [M3RL: Mind-aware Multi-agent Management Reinforcement Learning](https://arxiv.org/abs/1810.00147v3)
+- [Concurrent Meta Reinforcement Learning](https://arxiv.org/abs/1903.02710v1)
+- [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://arxiv.org/abs/1811.00260v2)
+- [Using Natural Language for Reward Shaping in Reinforcement Learning](https://arxiv.org/abs/1903.02020v1)
+- [Model-Based Reinforcement Learning for Atari](https://arxiv.org/abs/1903.00374v2)
+
+--------------
+
+Feb 2019
+
+- [Distributional reinforcement learning with linear function approximation](https://arxiv.org/abs/1902.03149v1)
+- [Novelty Search for Deep Reinforcement Learning Policy Network Weights by Action Sequence Edit Metric Distance](https://arxiv.org/abs/1902.03142v1)
+- [Tsallis Reinforcement Learning: A Unified Framework for Maximum Entropy Reinforcement Learning](https://arxiv.org/abs/1902.00137v2)
+- [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications](https://arxiv.org/abs/1812.11794v2)
+- [Reinforcement Learning for Optimal Load Distribution Sequencing in Resource-Sharing System](https://arxiv.org/abs/1902.01899v1)
+- [Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://arxiv.org/abs/1902.01554v1)
+- [On Reinforcement Learning for Full-length Game of StarCraft](https://arxiv.org/abs/1809.09095v2)
+- [Implicit Policy for Reinforcement Learning](https://arxiv.org/abs/1806.06798v2)
+- [A Meta-MDP Approach to Exploration for Lifelong Reinforcement Learning](https://arxiv.org/abs/1902.00843v1)
+- [Visual Rationalizations in Deep Reinforcement Learning for Atari Games](https://arxiv.org/abs/1902.00566v1)
+- [Statistics and Samples in Distributional Reinforcement Learning](https://arxiv.org/abs/1902.08102v1)
+- [A Comparative Analysis of Expected and Distributional Reinforcement Learning](https://arxiv.org/abs/1901.11084v2)
+- [Learn What Not to Learn: Action Elimination with Deep Reinforcement Learning](https://arxiv.org/abs/1809.02121v2)
+- [SOLAR: Deep Structured Representations for Model-Based Reinforcement Learning](https://arxiv.org/abs/1808.09105v2)
+- [From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742v1)
+- [Investigating Generalisation in Continuous Deep Reinforcement Learning](https://arxiv.org/abs/1902.07015v2)
+- [Model-Free Adaptive Optimal Control of Episodic Fixed-Horizon Manufacturing Processes using Reinforcement Learning](https://arxiv.org/abs/1809.06646v3)
+- [Crowd-Robot Interaction: Crowd-aware Robot Navigation with Attention-based Deep Reinforcement Learning](https://arxiv.org/abs/1809.08835v2)
+- [Towards the Next Generation Airline Revenue Management: A Deep Reinforcement Learning Approach to Seat Inventory Control and Overbooking](https://arxiv.org/abs/1902.06824v1)
+- [Parenting: Safe Reinforcement Learning from Human Input](https://arxiv.org/abs/1902.06766v1)
+- [Reinforcement Learning Without Backpropagation or a Clock](https://arxiv.org/abs/1902.05650v2)
+- [Message-Dropout: An Efficient Training Method for Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/1902.06527v1)
+- [A new Potential-Based Reward Shaping for Reinforcement Learning Agent](https://arxiv.org/abs/1902.06239v1)
+- [How to Combine Tree-Search Methods in Reinforcement Learning](https://arxiv.org/abs/1809.01843v2)
+- [Unsupervised Basis Function Adaptation for Reinforcement Learning](https://arxiv.org/abs/1703.07940v3)
+- [Communication Topologies Between Learning Agents in Deep Reinforcement Learning](https://arxiv.org/abs/1902.06740v1)
+- [Logically-Constrained Reinforcement Learning](https://arxiv.org/abs/1801.08099v8)
+- [Hyperbolic Embeddings for Learning Options in Hierarchical Reinforcement Learning](https://arxiv.org/abs/1812.01487v2)
+- [ProLoNets: Neural-encoding Human Experts' Domain Knowledge to Warm Start Reinforcement Learning](https://arxiv.org/abs/1902.06007v1)
+- [A Framework for Automated Cellular Network Tuning with Reinforcement Learning](https://arxiv.org/abs/1808.05140v2)
+- [Deep Reinforcement Learning for Search, Recommendation, and Online Advertising: A Survey](https://arxiv.org/abs/1812.07127v3)
+- [The Value Function Polytope in Reinforcement Learning](https://arxiv.org/abs/1901.11524v2)
+- [Robust Reinforcement Learning in POMDPs with Incomplete and Noisy Observations](https://arxiv.org/abs/1902.05795v1)
+- [Deep Reinforcement Learning Based High-level Driving Behavior Decision-making Model in Heterogeneous Traffic](https://arxiv.org/abs/1902.05772v1)
+- [Active Perception in Adversarial Scenarios using Maximum Entropy Deep Reinforcement Learning](https://arxiv.org/abs/1902.05644v1)
+- [Verifiably Safe Off-Model Reinforcement Learning](https://arxiv.org/abs/1902.05632v1)
+- [Off-Policy Actor-Critic in an Ensemble: Achieving Maximum General Entropy and Effective Environment Exploration in Deep Reinforcement Learning](https://arxiv.org/abs/1902.05551v1)
+- [Optimal Tap Setting of Voltage Regulation Transformers Using Batch Reinforcement Learning](https://arxiv.org/abs/1807.10997v2)
+- [Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1811.01458v2)
+- [Exploration versus exploitation in reinforcement learning: a stochastic control approach](https://arxiv.org/abs/1812.01552v3)
+- [ACTRCE: Augmenting Experience via Teacher's Advice For Multi-Goal Reinforcement Learning](https://arxiv.org/abs/1902.04546v1)
+- [End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning](https://arxiv.org/abs/1808.03405v2)
+- [WiseMove: A Framework for Safe Deep Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1902.04118v1)
+- [Emergence of Hierarchy via Reinforcement Learning Using a Multiple Timescale Stochastic RNN](https://arxiv.org/abs/1901.10113v2)
+
+
+
+---------------------
+
+
 Jan 2019
 
 - [Federated Reinforcement Learning](https://arxiv.org/abs/1901.08277v1)
@@ -58,52 +123,6 @@ Jan 2019
 - [Adversarial Text Generation Without Reinforcement Learning](https://arxiv.org/abs/1810.06640v2)
 - [End-to-End Video Captioning with Multitask Reinforcement Learning](https://arxiv.org/abs/1803.07950v2)
 
-Feb 2019
-
-- [Distributional reinforcement learning with linear function approximation](https://arxiv.org/abs/1902.03149v1)
-- [Novelty Search for Deep Reinforcement Learning Policy Network Weights by Action Sequence Edit Metric Distance](https://arxiv.org/abs/1902.03142v1)
-- [Tsallis Reinforcement Learning: A Unified Framework for Maximum Entropy Reinforcement Learning](https://arxiv.org/abs/1902.00137v2)
-- [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications](https://arxiv.org/abs/1812.11794v2)
-- [Reinforcement Learning for Optimal Load Distribution Sequencing in Resource-Sharing System](https://arxiv.org/abs/1902.01899v1)
-- [Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://arxiv.org/abs/1902.01554v1)
-- [On Reinforcement Learning for Full-length Game of StarCraft](https://arxiv.org/abs/1809.09095v2)
-- [Implicit Policy for Reinforcement Learning](https://arxiv.org/abs/1806.06798v2)
-- [A Meta-MDP Approach to Exploration for Lifelong Reinforcement Learning](https://arxiv.org/abs/1902.00843v1)
-- [Visual Rationalizations in Deep Reinforcement Learning for Atari Games](https://arxiv.org/abs/1902.00566v1)
-- [Statistics and Samples in Distributional Reinforcement Learning](https://arxiv.org/abs/1902.08102v1)
-- [A Comparative Analysis of Expected and Distributional Reinforcement Learning](https://arxiv.org/abs/1901.11084v2)
-- [Learn What Not to Learn: Action Elimination with Deep Reinforcement Learning](https://arxiv.org/abs/1809.02121v2)
-- [SOLAR: Deep Structured Representations for Model-Based Reinforcement Learning](https://arxiv.org/abs/1808.09105v2)
-- [From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742v1)
-- [Investigating Generalisation in Continuous Deep Reinforcement Learning](https://arxiv.org/abs/1902.07015v2)
-- [Model-Free Adaptive Optimal Control of Episodic Fixed-Horizon Manufacturing Processes using Reinforcement Learning](https://arxiv.org/abs/1809.06646v3)
-- [Crowd-Robot Interaction: Crowd-aware Robot Navigation with Attention-based Deep Reinforcement Learning](https://arxiv.org/abs/1809.08835v2)
-- [Towards the Next Generation Airline Revenue Management: A Deep Reinforcement Learning Approach to Seat Inventory Control and Overbooking](https://arxiv.org/abs/1902.06824v1)
-- [Parenting: Safe Reinforcement Learning from Human Input](https://arxiv.org/abs/1902.06766v1)
-- [Reinforcement Learning Without Backpropagation or a Clock](https://arxiv.org/abs/1902.05650v2)
-- [Message-Dropout: An Efficient Training Method for Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/1902.06527v1)
-- [A new Potential-Based Reward Shaping for Reinforcement Learning Agent](https://arxiv.org/abs/1902.06239v1)
-- [How to Combine Tree-Search Methods in Reinforcement Learning](https://arxiv.org/abs/1809.01843v2)
-- [Unsupervised Basis Function Adaptation for Reinforcement Learning](https://arxiv.org/abs/1703.07940v3)
-- [Communication Topologies Between Learning Agents in Deep Reinforcement Learning](https://arxiv.org/abs/1902.06740v1)
-- [Logically-Constrained Reinforcement Learning](https://arxiv.org/abs/1801.08099v8)
-- [Hyperbolic Embeddings for Learning Options in Hierarchical Reinforcement Learning](https://arxiv.org/abs/1812.01487v2)
-- [ProLoNets: Neural-encoding Human Experts' Domain Knowledge to Warm Start Reinforcement Learning](https://arxiv.org/abs/1902.06007v1)
-- [A Framework for Automated Cellular Network Tuning with Reinforcement Learning](https://arxiv.org/abs/1808.05140v2)
-- [Deep Reinforcement Learning for Search, Recommendation, and Online Advertising: A Survey](https://arxiv.org/abs/1812.07127v3)
-- [The Value Function Polytope in Reinforcement Learning](https://arxiv.org/abs/1901.11524v2)
-- [Robust Reinforcement Learning in POMDPs with Incomplete and Noisy Observations](https://arxiv.org/abs/1902.05795v1)
-- [Deep Reinforcement Learning Based High-level Driving Behavior Decision-making Model in Heterogeneous Traffic](https://arxiv.org/abs/1902.05772v1)
-- [Active Perception in Adversarial Scenarios using Maximum Entropy Deep Reinforcement Learning](https://arxiv.org/abs/1902.05644v1)
-- [Verifiably Safe Off-Model Reinforcement Learning](https://arxiv.org/abs/1902.05632v1)
-- [Off-Policy Actor-Critic in an Ensemble: Achieving Maximum General Entropy and Effective Environment Exploration in Deep Reinforcement Learning](https://arxiv.org/abs/1902.05551v1)
-- [Optimal Tap Setting of Voltage Regulation Transformers Using Batch Reinforcement Learning](https://arxiv.org/abs/1807.10997v2)
-- [Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1811.01458v2)
-- [Exploration versus exploitation in reinforcement learning: a stochastic control approach](https://arxiv.org/abs/1812.01552v3)
-- [ACTRCE: Augmenting Experience via Teacher's Advice For Multi-Goal Reinforcement Learning](https://arxiv.org/abs/1902.04546v1)
-- [End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning](https://arxiv.org/abs/1808.03405v2)
-- [WiseMove: A Framework for Safe Deep Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1902.04118v1)
-- [Emergence of Hierarchy via Reinforcement Learning Using a Multiple Timescale Stochastic RNN](https://arxiv.org/abs/1901.10113v2)
 
 --------
 
