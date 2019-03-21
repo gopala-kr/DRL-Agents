@@ -32,6 +32,9 @@
 
 ----------------
 
+![deep_rl](https://github.com/gopala-kr/DRL-Agents/blob/master/resources/img/deep_rl.PNG)
+
+------------
 #### RL Landscape
 
 [Back to top](#contents)
