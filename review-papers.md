@@ -11,6 +11,19 @@ March 2019
 - [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://arxiv.org/abs/1811.00260v2)
 - [Using Natural Language for Reward Shaping in Reinforcement Learning](https://arxiv.org/abs/1903.02020v1)
 - [Model-Based Reinforcement Learning for Atari](https://arxiv.org/abs/1903.00374v2)
+- [RLOC: Neurobiologically Inspired Hierarchical Reinforcement Learning Algorithm for Continuous Control of Nonlinear Dynamical Systems](https://arxiv.org/abs/1903.03064v1)
+- [Learning Hierarchical Teaching in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/abs/1903.03216v1)
+- [Hacking Google reCAPTCHA v3 using Reinforcement Learning](https://arxiv.org/abs/1903.01003v2)
+- [Reinforcement Learning and Inverse Reinforcement Learning with System 1 and System 2](https://arxiv.org/abs/1811.08549v2)
+- [Deep Reinforcement Learning with Feedback-based Exploration](https://arxiv.org/abs/1903.06151v1)
+- [Deep Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1811.11329v2)
+- [Improving Safety in Reinforcement Learning Using Model-Based Architectures and Human Intervention](https://arxiv.org/abs/1903.09328v1)
+- [Deep Hierarchical Reinforcement Learning Based Recommendations via Multi-goals Abstraction](https://arxiv.org/abs/1903.09374v1)
+- [Explaining Reinforcement Learning to Mere Mortals: An Empirical Study](https://arxiv.org/abs/1903.09708v1)
+- [Lifelong Federated Reinforcement Learning: A Learning Architecture for Navigation in Cloud Robotic Systems](https://arxiv.org/abs/1901.06455v2)
+- [On the use of Deep Autoencoders for Efficient Embedded Reinforcement Learning](https://arxiv.org/abs/1903.10404v1)
+- [Autoregressive Policies for Continuous Control Deep Reinforcement Learning](https://arxiv.org/abs/1903.11524v1)
+
 
 --------------
 
