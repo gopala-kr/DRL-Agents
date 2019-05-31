@@ -1,6 +1,23 @@
 
 #### Deep RL
 
+April-May
+
+- [Reinforcement Learning with Probabilistic Guarantees for Autonomous Driving](https://arxiv.org/abs/1904.07189v2)
+- [An Atari Model Zoo for Analyzing, Visualizing, and Comparing Deep Reinforcement Learning Agents](https://arxiv.org/abs/1812.07069v2)
+- [On the Generalization Gap in Reparameterizable Reinforcement Learning](https://arxiv.org/abs/1905.12654v1)
+- [Targeted Attacks on Deep Reinforcement Learning Agents through Adversarial Observations](https://arxiv.org/abs/1905.12282v1)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+
+
 
 March 2019
 
