@@ -7,13 +7,13 @@ April-May
 - [An Atari Model Zoo for Analyzing, Visualizing, and Comparing Deep Reinforcement Learning Agents](https://arxiv.org/abs/1812.07069v2)
 - [On the Generalization Gap in Reparameterizable Reinforcement Learning](https://arxiv.org/abs/1905.12654v1)
 - [Targeted Attacks on Deep Reinforcement Learning Agents through Adversarial Observations](https://arxiv.org/abs/1905.12282v1)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Inverse Reinforcement Learning in Contextual MDPs](https://arxiv.org/abs/1905.09710v2)
+- [Teaching on a Budget in Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/1905.01357v2)
+- [Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1905.12127v1)
+- [Generation of Policy-Level Explanations for Reinforcement Learning](https://arxiv.org/abs/1905.12044v1)
+- [A Control-Model-Based Approach for Reinforcement Learning](https://arxiv.org/abs/1905.12009v1)
+- [Interactive Teaching Algorithms for Inverse Reinforcement Learning](https://arxiv.org/abs/1905.11867v1)
+- [Snooping Attacks on Deep Reinforcement Learning](https://arxiv.org/abs/1905.11832v1)
 
 
 
