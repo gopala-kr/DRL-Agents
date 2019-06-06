@@ -62,6 +62,7 @@
 - [Intel Coach](https://github.com/NervanaSystems/coach) - Coach is a python reinforcement learning research framework containing implementation of many state-of-the-art algorithms.
 - [ELF](https://github.com/facebookresearch/ELF) - An End-To-End, Lightweight and Flexible Platform for Game Research
 - [Unity ML-Agents Toolkit](https://arxiv.org/pdf/1809.02627v1.pdf)
+- [rlkit](https://github.com/vitchyr/rlkit)
 
 ------------------------
 
