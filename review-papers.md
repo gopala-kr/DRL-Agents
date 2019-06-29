@@ -6,10 +6,20 @@ Jun
 - [Towards Empathic Deep Q-Learning](https://arxiv.org/pdf/1906.10918v1.pdf)
 - [Ranking Policy Gradient](https://arxiv.org/pdf/1906.09674v1.pdf)
 - [Hyp-RL : Hyperparameter Optimization by Reinforcement Learning](https://arxiv.org/abs/1906.11527v1)
-- []()
-- []()
-- []()
-
+- [Modern Deep Reinforcement Learning Algorithms](https://arxiv.org/abs/1906.10025v1)
+- [A Framework for Automatic Question Generation from Text using Deep Reinforcement Learning](https://arxiv.org/abs/1808.04961v3)
+- [Deep Reinforcement Learning for Unmanned Aerial Vehicle-Assisted Vehicular Networks](https://arxiv.org/abs/1906.05015v2)
+- [Is multiagent deep reinforcement learning the answer or the question? A brief survey](https://arxiv.org/abs/1810.05587v2)
+- [Finding Needles in a Moving Haystack: Prioritizing Alerts with Adversarial Reinforcement Learning](https://arxiv.org/abs/1906.08805v1)
+- [Cooperative Lane Changing via Deep Reinforcement Learning](https://arxiv.org/abs/1906.08662v1)
+- [A Hierarchical Architecture for Sequential Decision-Making in Autonomous Driving using Deep Reinforcement Learning](https://arxiv.org/abs/1906.08464v1)
+- [Explaining Reinforcement Learning to Mere Mortals: An Empirical Study](https://arxiv.org/abs/1903.09708v2)
+- [Language as an Abstraction for Hierarchical Deep Reinforcement Learning](https://arxiv.org/abs/1906.07343v1)
+- [Autonomous Airline Revenue Management: A Deep Reinforcement Learning Approach to Seat Inventory Control and Overbooking](https://arxiv.org/abs/1902.06824v2)
+- [A Survey of Reinforcement Learning Informed by Natural Language](https://arxiv.org/abs/1906.03926v1)
+- [Load Balancing for Ultra-Dense Networks: A Deep Reinforcement Learning Based Approach](https://arxiv.org/abs/1906.00767v1)
+- [Deep Reinforcement Learning Architecture for Continuous Power Allocation in High Throughput Satellites](https://arxiv.org/abs/1906.00571v1)
+- [Harnessing Reinforcement Learning for Neural Motion Planning](https://arxiv.org/abs/1906.00214v1)
 
 April-May
 
