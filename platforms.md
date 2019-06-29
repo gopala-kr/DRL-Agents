@@ -73,5 +73,7 @@ Metrics for State Representation Learning](https://arxiv.org/pdf/1809.09369.pdf)
 - [StarCraft II: A New Challenge for Reinforcement Learning](https://arxiv.org/pdf/1708.04782.pdf)
 - [OpenAI Gym](https://pdfs.semanticscholar.org/2b10/281297ee001a9f3f4ea1aa9bea6b638c27df.pdf)
 - [The Arcade Learning Environment:An Evaluation Platform for General Agents](https://jair.org/index.php/jair/article/view/10819/25823)
+- [PyRep: Bringing V-REP to
+Deep Robot Learning](https://arxiv.org/pdf/1906.11176v1.pdf)
 
 -----------------
