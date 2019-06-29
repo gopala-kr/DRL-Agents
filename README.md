@@ -371,6 +371,7 @@ for Learning in Service Robotics](https://arxiv.org/pdf/1807.02192v1.pdf)
 Communications and Networking: A Survey](https://arxiv.org/pdf/1810.07862v1.pdf)
 - [An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560v2)
 - [Challenges of Real-World Reinforcement Learning](https://arxiv.org/abs/1904.12901v1)
+- [Modern Deep Reinforcement Learning Algorithms](https://arxiv.org/abs/1906.10025v1)
 
 ----------------------------------------
 
