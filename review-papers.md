@@ -1,6 +1,16 @@
 
 #### Deep RL
 
+Jun
+
+- [Towards Empathic Deep Q-Learning](https://arxiv.org/pdf/1906.10918v1.pdf)
+- [Ranking Policy Gradient](https://arxiv.org/pdf/1906.09674v1.pdf)
+- [Hyp-RL : Hyperparameter Optimization by Reinforcement Learning](https://arxiv.org/abs/1906.11527v1)
+- []()
+- []()
+- []()
+
+
 April-May
 
 - [Reinforcement Learning with Probabilistic Guarantees for Autonomous Driving](https://arxiv.org/abs/1904.07189v2)
