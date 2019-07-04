@@ -1,6 +1,9 @@
 
 #### Deep RL
 
+
+- [Benchmarking Model-Based Reinforcement Learning](http://www.cs.toronto.edu/~tingwuwang/mbrl.html)
+
 Jun
 
 - [Towards Empathic Deep Q-Learning](https://arxiv.org/pdf/1906.10918v1.pdf)
@@ -20,6 +23,7 @@ Jun
 - [Load Balancing for Ultra-Dense Networks: A Deep Reinforcement Learning Based Approach](https://arxiv.org/abs/1906.00767v1)
 - [Deep Reinforcement Learning Architecture for Continuous Power Allocation in High Throughput Satellites](https://arxiv.org/abs/1906.00571v1)
 - [Harnessing Reinforcement Learning for Neural Motion Planning](https://arxiv.org/abs/1906.00214v1)
+
 
 April-May
 
