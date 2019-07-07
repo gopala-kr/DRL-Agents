@@ -3,6 +3,12 @@
 
 
 - [Benchmarking Model-Based Reinforcement Learning](http://www.cs.toronto.edu/~tingwuwang/mbrl.html)
+- [Learning World Graphs to Accelerate
+Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1907.00664v1.pdf)
+- [Perspective Taking in Deep Reinforcement Learning Agents](https://arxiv.org/abs/1907.01851v1)
+- [On the Weaknesses of Reinforcement Learning for Neural Machine Translation](https://arxiv.org/abs/1907.01752v1)
+- [Dynamic Face Video Segmentation via Reinforcement Learning](https://arxiv.org/abs/1907.01296v1)
+
 
 Jun
 
