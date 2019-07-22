@@ -12,6 +12,7 @@ Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1907.00664v1.pdf)
 - [Intrinsic Motivation Driven Intuitive Physics Learning using Deep Reinforcement Learning with Intrinsic Reward Normalization](https://arxiv.org/abs/1907.03116v1)
 - [A Communication-Efficient Multi-Agent Actor-Critic Algorithm for Distributed Reinforcement Learning](https://arxiv.org/abs/1907.03053v1)
 - [Attentive Multi-Task Deep Reinforcement Learning](https://arxiv.org/abs/1907.02874v1)
+- [Low Level Control of a Quadrotor with Deep Model-Based Reinforcement Learning](https://arxiv.org/pdf/1901.03737v2.pdf)
 
 Jun
 
