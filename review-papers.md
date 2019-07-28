@@ -17,6 +17,8 @@ Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1907.00664v1.pdf)
 - [Low Level Control of a Quadrotor with Deep Model-Based Reinforcement Learning](https://arxiv.org/pdf/1901.03737v2.pdf)
 - [Google Research Football: A Novel Reinforcement Learning Environment](https://arxiv.org/abs/1907.11180v1)
 - [Deep Reinforcement Learning in Financial Markets](https://arxiv.org/ftp/arxiv/papers/1907/1907.04373.pdf)
+- [Dynamic Input for Deep Reinforcement Learning in Autonomous Driving](https://arxiv.org/abs/1907.10994v1)
+- [Characterizing Attacks on Deep Reinforcement Learning](https://arxiv.org/abs/1907.09470v2)
 
 Jun
 
