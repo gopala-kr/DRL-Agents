@@ -19,6 +19,8 @@ Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1907.00664v1.pdf)
 - [Deep Reinforcement Learning in Financial Markets](https://arxiv.org/ftp/arxiv/papers/1907/1907.04373.pdf)
 - [Dynamic Input for Deep Reinforcement Learning in Autonomous Driving](https://arxiv.org/abs/1907.10994v1)
 - [Characterizing Attacks on Deep Reinforcement Learning](https://arxiv.org/abs/1907.09470v2)
+- [Deep Reinforcement Learning for Clinical Decision Support: A Brief Survey](https://arxiv.org/abs/1907.09475v1)
+- [VRLS: A Unified Reinforcement Learning Scheduler for Vehicle-to-Vehicle Communications](https://arxiv.org/abs/1907.09319v1)
 
 Jun
 
