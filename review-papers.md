@@ -1,8 +1,7 @@
 
 #### Deep RL
 
-Jul,
-
+Jul
 
 - [Benchmarking Model-Based Reinforcement Learning](http://www.cs.toronto.edu/~tingwuwang/mbrl.html)
 - [Learning World Graphs to Accelerate
