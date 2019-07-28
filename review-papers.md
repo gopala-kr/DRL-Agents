@@ -23,6 +23,8 @@ Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1907.00664v1.pdf)
 - [VRLS: A Unified Reinforcement Learning Scheduler for Vehicle-to-Vehicle Communications](https://arxiv.org/abs/1907.09319v1)
 - [Deep Reinforcement Learning for Autonomous Internet of Things: Model, Applications and Challenges](https://arxiv.org/abs/1907.09059v1)
 - [Arena: a toolkit for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1907.09467v1)
+- [GPU-Accelerated Atari Emulation for Reinforcement Learning](https://arxiv.org/abs/1907.08467v1)
+- [Photonic architecture for reinforcement learning](https://arxiv.org/pdf/1907.07503v1.pdf)
 
 Jun
 
