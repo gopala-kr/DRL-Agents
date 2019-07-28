@@ -21,6 +21,8 @@ Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1907.00664v1.pdf)
 - [Characterizing Attacks on Deep Reinforcement Learning](https://arxiv.org/abs/1907.09470v2)
 - [Deep Reinforcement Learning for Clinical Decision Support: A Brief Survey](https://arxiv.org/abs/1907.09475v1)
 - [VRLS: A Unified Reinforcement Learning Scheduler for Vehicle-to-Vehicle Communications](https://arxiv.org/abs/1907.09319v1)
+- [Deep Reinforcement Learning for Autonomous Internet of Things: Model, Applications and Challenges](https://arxiv.org/abs/1907.09059v1)
+- [Arena: a toolkit for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1907.09467v1)
 
 Jun
 
