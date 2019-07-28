@@ -1,6 +1,8 @@
 
 #### Deep RL
 
+Jul,
+
 
 - [Benchmarking Model-Based Reinforcement Learning](http://www.cs.toronto.edu/~tingwuwang/mbrl.html)
 - [Learning World Graphs to Accelerate
@@ -13,6 +15,8 @@ Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1907.00664v1.pdf)
 - [A Communication-Efficient Multi-Agent Actor-Critic Algorithm for Distributed Reinforcement Learning](https://arxiv.org/abs/1907.03053v1)
 - [Attentive Multi-Task Deep Reinforcement Learning](https://arxiv.org/abs/1907.02874v1)
 - [Low Level Control of a Quadrotor with Deep Model-Based Reinforcement Learning](https://arxiv.org/pdf/1901.03737v2.pdf)
+- [Google Research Football: A Novel Reinforcement Learning Environment](https://arxiv.org/abs/1907.11180v1)
+- [Deep Reinforcement Learning in Financial Markets](https://arxiv.org/ftp/arxiv/papers/1907/1907.04373.pdf)
 
 Jun
 
